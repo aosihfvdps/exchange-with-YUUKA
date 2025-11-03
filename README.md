@@ -12,24 +12,24 @@
 ## 資源
 
 ### Youglish
-Youglish Japanese
+Youglish Japanese  
 https://youglish.com/japanese
 
-Youglish Chinese
+Youglish Chinese  
 https://youglish.com/chinese
 
-Youglish English
+Youglish English  
 https://youglish.com/
 
 <br>
 
 ### 辞書
 
-日本語-英語
+日本語-英語  
 https://jisho.hlorenzi.com/
 
-中国語-中国語/英語/フランスご/ドイツ語
+中国語-中国語/英語/フランスご/ドイツ語  
 https://www.moedict.tw/%E5%8F%AF%E6%84%9B
 
-英語（Cambridge）
+英語（Cambridge）  
 https://dictionary.cambridge.org/
