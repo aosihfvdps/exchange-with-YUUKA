@@ -33,3 +33,9 @@ https://www.moedict.tw/%E5%8F%AF%E6%84%9B
 
 英語（Cambridge）  
 https://dictionary.cambridge.org/
+
+
+------
+
+記録のために
+僕は2025年10月7日から本気で日本語の勉強を始めました。
