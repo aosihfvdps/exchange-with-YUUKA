@@ -6,6 +6,19 @@
 
 このぺーじは僕一人だけで管理（かんり）しますから、何か問題があれば、是非僕に教えてください。
 
+そして、以下のは友達と話してた記録です：
+1. Conversation with [黑白](日文日記/與黑白.md)
+2. Conversation with [RYOSEI](日文日記/與RYOSEI.md)
+3. Conversation with [ROY](日文日記/與ROY.md)
+5. Other online resources such as 出口日語
+
+---
+There is a special section for two big questions
+* は 和 が 的使用時機/差別
+* 日文的時態討論 
+ 
+This section can be found [here (は_が及時態)](/は_が及時態)
+
 
 <br>
 
